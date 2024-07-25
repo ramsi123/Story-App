@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SubmissionIntermediateAndroid</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau berbagi cerita perjalananmu terkait Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Di Dicoding Story aja!</string>
+    <string name="title_welcome_page">Selamat Datang di Dicoding Story!</string>
+    <string name="title_signup_page">Lengkapi data diri di bawah ini</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk berbagi cerita?</string>
+    <string name="name">Nama</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="title_main_page">Dicoding Story</string>
+    <string name="menu_1">Keluar</string>
+    <string name="menu_3">Peta</string>
+    <string name="description">Deskripsi</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="upload">Unggah</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu!</string>
+    <string name="login_title_alert">Selamat Datang %s</string>
+    <string name="login_message_alert">Anda berhasil login. Silahkan menuliskan cerita anda!</string>
+    <string name="signup_title_alert">Berhasil Daftar</string>
+    <string name="signup_message_alert">Akun dengan email %s sudah jadi. Yuk, login dan tambahkan ceritamu</string>
+    <string name="email_alert">Email tidak valid</string>
+    <string name="password_alert">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="media_selected">Tidak ada media yang dipilih</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="alert_dialog_error_title">Error!</string>
+    <string name="alert_dialog_positive_button">Ok</string>
+    <string name="title_activity_maps">Maps Activity</string>
+    <string name="retry">Coba lagi</string>
+    <string name="add_location">Tambah Lokasi</string>
+</resources>

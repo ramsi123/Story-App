@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SubmissionIntermediateAndroid</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Do you want to share stories about your journey regarding Android, iOS, Machine Learning, Cloud, Front-End, Back-End, and other IT fields? You can share your story in Dicoding Story!</string>
+    <string name="title_welcome_page">Welcome to Dicoding Story!</string>
+    <string name="title_signup_page">Please fill in your personal data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your data below</string>
+    <string name="title_login_page">Are you ready to share your story?</string>
+    <string name="name">Name</string>
+    <string name="greeting">Hello %1$s,</string>
+    <string name="title_main_page">Dicoding Story</string>
+    <string name="menu_1">Logout</string>
+    <string name="menu_3">Map</string>
+    <string name="description">Description</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload</string>
+    <string name="empty_image_warning">Please select image first!</string>
+    <string name="login_title_alert">Welcome %s</string>
+    <string name="login_message_alert">You have successfully logged in. You can add and share your story</string>
+    <string name="signup_title_alert">Account Registered Successfully</string>
+    <string name="signup_message_alert">Account with email %s has been registered successfully. You can login and share your story</string>
+    <string name="email_alert">Invalid email</string>
+    <string name="password_alert">Password cannot be less than 8 characters</string>
+    <string name="media_selected">No media selected</string>
+    <string name="change_language">Change Language</string>
+    <string name="alert_dialog_error_title">Error!</string>
+    <string name="alert_dialog_positive_button">Ok</string>
+    <string name="title_activity_maps">Maps Activity</string>
+    <string name="retry">Retry</string>
+    <string name="add_location">Add Location</string>
+</resources>
